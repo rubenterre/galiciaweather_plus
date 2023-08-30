@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="iPhone-12-INICIO" transform="translate(-231.000000, -798.000000)" stroke="#D1C9C8" stroke-width="1.6">
+            <g id="Navbar" transform="translate(0.000000, 775.000000)">
+                <g id="Icon" transform="translate(232.000000, 24.000000)">
+                    <circle id="Oval" cx="8.37878809" cy="8.37878809" r="8.37878809"></circle>
+                    <line x1="21" y1="21" x2="14.5750689" y2="14.5750689" id="Path"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
